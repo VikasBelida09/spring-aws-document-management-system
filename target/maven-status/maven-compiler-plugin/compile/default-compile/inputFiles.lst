@@ -1,0 +1,13 @@
+/Users/vikasbelida/Downloads/spring-aws/src/main/java/com/example/aws/demo/service/FileMetaDataService.java
+/Users/vikasbelida/Downloads/spring-aws/src/main/java/com/example/aws/demo/config/DynamoDbConfig.java
+/Users/vikasbelida/Downloads/spring-aws/src/main/java/com/example/aws/demo/entities/User.java
+/Users/vikasbelida/Downloads/spring-aws/src/main/java/com/example/aws/demo/config/DatabaseSecrets.java
+/Users/vikasbelida/Downloads/spring-aws/src/main/java/com/example/aws/demo/DemoApplication.java
+/Users/vikasbelida/Downloads/spring-aws/src/main/java/com/example/aws/demo/repositories/rds/UserRepository.java
+/Users/vikasbelida/Downloads/spring-aws/src/main/java/com/example/aws/demo/entities/FileMetadata.java
+/Users/vikasbelida/Downloads/spring-aws/src/main/java/com/example/aws/demo/controller/UserController.java
+/Users/vikasbelida/Downloads/spring-aws/src/main/java/com/example/aws/demo/repositories/dynamo/FileMetadataRepository.java
+/Users/vikasbelida/Downloads/spring-aws/src/main/java/com/example/aws/demo/service/UserService.java
+/Users/vikasbelida/Downloads/spring-aws/src/main/java/com/example/aws/demo/config/DatabaseConfig.java
+/Users/vikasbelida/Downloads/spring-aws/src/main/java/com/example/aws/demo/service/S3Service.java
+/Users/vikasbelida/Downloads/spring-aws/src/main/java/com/example/aws/demo/config/S3Config.java

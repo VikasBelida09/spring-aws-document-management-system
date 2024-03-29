@@ -1,0 +1,16 @@
+com/example/aws/demo/service/S3Service.class
+com/example/aws/demo/service/UserService.class
+com/example/aws/demo/entities/FileMetadata.class
+com/example/aws/demo/entities/FileMetadata$FileMetadataBuilder.class
+com/example/aws/demo/config/DatabaseSecrets.class
+com/example/aws/demo/entities/User$UserBuilder.class
+com/example/aws/demo/controller/UserController.class
+com/example/aws/demo/repositories/dynamo/FileMetadataRepository.class
+com/example/aws/demo/config/DatabaseSecrets$DatabaseSecretsBuilder.class
+com/example/aws/demo/DemoApplication.class
+com/example/aws/demo/config/S3Config.class
+com/example/aws/demo/config/DynamoDbConfig.class
+com/example/aws/demo/repositories/rds/UserRepository.class
+com/example/aws/demo/service/FileMetaDataService.class
+com/example/aws/demo/config/DatabaseConfig.class
+com/example/aws/demo/entities/User.class
